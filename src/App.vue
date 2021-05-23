@@ -1,12 +1,18 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+
     </div>
     <router-view />
   </div>
 </template>
+
+<script>
+export default {
+
+     //console.log("user: daniel.cubillos.flores@gmail.com - pass: desafio123");
+}
+</script>
 
 <style lang="scss">
 #app {
