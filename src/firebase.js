@@ -8,7 +8,7 @@ const firebaseConfig = {
   storageBucket: "desafios-6fa8d.appspot.com",
   messagingSenderId: "612071529713",
   appId: "1:612071529713:web:fb43308bbb9646f7245d50",
-  measurementId: "G-SYKJ6R0YLB",
+  measurementId: "G-SYKJ6R0YLB"
 };
 
-export default firebaseConfig
+export { firebaseConfig }
