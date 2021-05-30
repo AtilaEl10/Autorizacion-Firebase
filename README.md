@@ -1,3 +1,6 @@
+User: daniel.cubillos@gmail.com
+pass: 123456
+
 # desafiofirebase
 
 ## Project setup
